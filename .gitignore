@@ -1,0 +1,61 @@
+# Dependencies
+node_modules/
+.pnp/
+.pnp.js
+.pnp.cjs
+
+# Next.js build output
+.next/
+out/
+dist/
+
+# Production
+build/
+
+# Static exports
+export/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+bun-debug.log*
+
+# Environment variables
+.env*
+!.env.example
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+
+.idea/
+*.swp
+
+# Typescript
+*.tsbuildinfo
+
+# Next.js cache
+.next/cache/
+
+# Tailwind CSS JIT cache
+.tailwindcss/
+
+# Turborepo
+turbo.json
+.turbo/
+
+# Optional: Local build artifacts
+*.local
+
+# Coverage
+coverage/
+
+# npm lock backup
+package-lock.json.orig
