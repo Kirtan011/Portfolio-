@@ -1,0 +1,14 @@
+{
+  "id": "video-analytics",
+  "title": "Video Analytics for Surveillance System",
+  "description": "Developed a real-time surveillance system capable of detecting 5 security-critical events by training a custom YOLOv11 model.",
+  "techStack": ["YOLOv11", "Python", "LabelImg", "Ultralytics"],
+  "images": [],
+  "githubUrl": "https://github.com/Kirtan011",
+  "liveUrl": "#",
+  "achievements": [
+    "Improved detection performance on 30,000+ annotated images by building and labeling a multi-class dataset using LabelImg.",
+    "Enabled real-time video analytics at 10 FPS by optimizing the inference and training pipeline with Ultralytics.",
+    "Enhanced model reliability through dataset augmentation, confidence-threshold tuning, and iterative evaluation."
+  ]
+}

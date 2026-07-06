@@ -1,0 +1,17 @@
+[
+  {
+    "role": "Software Developer Intern",
+    "company": "Unizoy",
+    "location": "Surat, Gujarat",
+    "startDate": "January 2026",
+    "endDate": "Present",
+    "description": [
+      "Migrated a WordPress website to Next.js, increasing Lighthouse performance from 50-60 to 90+, achieving a 95+ SEO score, and reducing LCP to 1.5-2 seconds.",
+      "Shipped 12+ PRs across the application, marketing site, and APIs by contributing to a Next.js 16 and NestJS monorepo.",
+      "Reduced idea-to-draft time from days to minutes by building 30+ React components and implementing an LLM-powered streaming chat with live preview capabilities.",
+      "Accelerated product validation by developing a 6-tab AI research dashboard with 24+ reusable components, rendering structured LLM outputs for rapid go/no-go decisions.",
+      "Improved platform security and reliability by fixing 49+ bugs and eliminating 100% of SQL injection vulnerabilities through input whitelisting and query validation.",
+      "Enabled self-service customer onboarding and payments by launching a 6+ page server-rendered marketing website and integrating Stripe for subscription billing."
+    ]
+  }
+]

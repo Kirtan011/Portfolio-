@@ -1,0 +1,14 @@
+{
+  "id": "ai-fitness-coach",
+  "title": "AI FitnessCoach - AI-Powered Fitness Planning App",
+  "description": "Generated personalized 7-day fitness plans from 180+ profile combinations using an LLM-powered recommendation system.",
+  "techStack": ["Next.js", "React", "TypeScript", "Tailwind CSS", "LLM API"],
+  "images": [],
+  "githubUrl": "https://github.com/Kirtan011",
+  "liveUrl": "#",
+  "achievements": [
+    "Built a fallback pipeline that repaired malformed AI responses and regenerated plans from a curated exercise and meal database.",
+    "Reduced core API complexity by 89% (290 to 30 lines) through modular service refactoring.",
+    "Improved usability with PDF export, plan regeneration, and audio playback in a responsive dark-mode interface."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "emoscribe-ai",
+  "title": "Emoscribe AI",
+  "description": "An intelligent web application that transcribes audio, analyzes the emotional tone of speech, and provides concise AI-powered summaries.",
+  "techStack": ["React", "Vite", "Tailwind CSS", "Shadcn-UI", "Python", "Flask", "Gunicorn", "faster-whisper", "PyTorch", "transformers", "Google Gemini Pro API"],
+  "images": [],
+  "githubUrl": "https://github.com/Kirtan011",
+  "liveUrl": "#",
+  "achievements": [
+    "Audio Transcription: Transcribes audio files (.wav, .mp3, etc.) with high accuracy using the Faster-Whisper model.",
+    "Emotion Analysis: Detects dominant emotions in speech (joy, sadness, anger, neutral) via a fine-tuned Wav2Vec2 model.",
+    "AI Summarization: Generates concise, human-readable summaries using Google Gemini Pro API."
+  ]
+}

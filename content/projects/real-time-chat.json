@@ -1,0 +1,13 @@
+{
+  "id": "real-time-chat",
+  "title": "Real-time Chat Application",
+  "description": "Designed and shipped a production-ready real-time chat platform supporting 1:1 messaging, group chats, and full group lifecycle management.",
+  "techStack": ["React.js", "Node.js", "Express.js", "MongoDB", "Socket.IO", "Chakra UI"],
+  "images": [],
+  "githubUrl": "https://github.com/Kirtan011",
+  "liveUrl": "#",
+  "achievements": [
+    "Engineered bi-directional messaging with Socket.IO, ensuring low-latency delivery and a smooth live-chat experience.",
+    "Built a persistent backend using MongoDB, with a responsive, clean UI powered by Chakra UI."
+  ]
+}
