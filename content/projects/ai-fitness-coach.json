@@ -4,7 +4,7 @@
   "description": "Generated personalized 7-day fitness plans from 180+ profile combinations using an LLM-powered recommendation system.",
   "techStack": ["Next.js", "React", "TypeScript", "Tailwind CSS", "LLM API"],
   "images": [],
-  "githubUrl": "https://github.com/Kirtan011",
+  "githubUrl": "https://github.com/Kirtan011/AI-FitnessCoach",
   "liveUrl": "#",
   "achievements": [
     "Built a fallback pipeline that repaired malformed AI responses and regenerated plans from a curated exercise and meal database.",

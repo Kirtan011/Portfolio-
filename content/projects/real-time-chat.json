@@ -4,7 +4,7 @@
   "description": "Designed and shipped a production-ready real-time chat platform supporting 1:1 messaging, group chats, and full group lifecycle management.",
   "techStack": ["React.js", "Node.js", "Express.js", "MongoDB", "Socket.IO", "Chakra UI"],
   "images": [],
-  "githubUrl": "https://github.com/Kirtan011",
+  "githubUrl": "https://github.com/Kirtan011/Chat-App-Babble",
   "liveUrl": "#",
   "achievements": [
     "Engineered bi-directional messaging with Socket.IO, ensuring low-latency delivery and a smooth live-chat experience.",
